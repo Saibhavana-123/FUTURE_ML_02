@@ -113,33 +113,7 @@ Output:
 
 ---
 
-## ▶️ How to Run
 
-1. Clone the repository:
-
-```
-git clone https://github.com/your-username/your-repo-name.git
-```
-
-2. Navigate to project folder:
-
-```
-cd your-repo-name
-```
-
-3. Install dependencies:
-
-```
-pip install pandas nltk scikit-learn
-```
-
-4. Run the project:
-
-```
-python tickets.py
-```
-
----
 
 ## 💡 Project Use Case
 
