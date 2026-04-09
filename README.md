@@ -159,12 +159,3 @@ This project demonstrates how Machine Learning and NLP can be applied to real-wo
 
 ---
 
-## 🙌 Acknowledgement
-
-Project completed as part of **Machine Learning Internship Task (Future Interns)**
-
----
-
-## 📢 Connect
-
-If you like this project, feel free to connect and share your feedback!
